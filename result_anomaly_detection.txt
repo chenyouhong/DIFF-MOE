@@ -1,0 +1,8 @@
+FD
+test_bs128_sl96_dm16_df16_ln4_k2_embtimeF_ar5.0_lr0.0003_pt5_te20_bn1_0  
+Accuracy : 0.9849, Precision : 0.9859, Recall : 0.9959, F-score : 0.9909   
+ALFA
+(train_test)
+test_bs128_sl96_dm16_df16_ln4_k2_embtimeF_ar4.0_lr0.0003_pt5_te20_bn1_0  
+Accuracy : 0.9998, Precision : 0.9996, Recall : 1.0000, F-score : 0.9998
+
